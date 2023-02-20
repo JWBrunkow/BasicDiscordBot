@@ -10,4 +10,5 @@ At present the bot listens for phrases commonly referenced in relation to CR7, a
  - Add slash command functionality to add additional phrases for response, or to change the response it has
  - Add a temporary ban feature for individuals overusing the meme
  - Add autoplaying video with a 1 phrase listener
+ - Host the bot on an external VM to allow continuous running
 
