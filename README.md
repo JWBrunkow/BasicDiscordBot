@@ -22,12 +22,12 @@ The application is managed using Maven
 
 ### Installing & Executing
 
-* After downloading, create a new class named ````Keys.java```` as shown below:
-   ``public class Keys {
+* After downloading, create a new class named ````Keys.java```` as shown below: <br>
+   ````public class Keys {
     // @todo REMOVE THIS FROM VERSION CONTROL
     public static String apiKey = "xxxxxxxxxxxxxxxxxxxx";
     public static String guildId = "xxxxxxxxxxxxxxxxxxxx";
-    }``
+    }````
 
 * Your guildId will be present in the server you wish to run this program on. 
 
